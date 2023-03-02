@@ -20,7 +20,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the user profile.
 
-If you would want to see more profiles, you can run the following script:
+If you would want to see more profiles, you can run the following command:
 
 ```bash
 npm run addUsers
@@ -31,3 +31,23 @@ pnpm addUsers
 ```
 
 Go to the diretory `src/database/users.json`, pick a new id and place it on the url, and done, **NEW PROFILES!**
+
+Anothe thing you can do it's run test! to do that just run the test command like this:
+
+```bash
+npm run test
+# or
+yarn test
+# or
+pnpm test
+```
+
+And if you want to see the coverage of this project, just run this command and see the `index.html` on the directory `coverage/Icov-report/index.html`:
+
+```bash
+npm run test:coverage
+# or
+yarn test:coverage
+# or
+pnpm test:coverage
+```
