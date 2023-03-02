@@ -1,0 +1,19 @@
+[
+  {
+    "id": 123,
+    "name": "Theodore Taylor",
+    "role": "Sr. Product Designer",
+    "score": 97,
+    "hardSkills": [
+      { "skill": "Figma", "percentage": 100 },
+      { "skill": "Prototyping", "percentage": 97 },
+      { "skill": "UX Wireframing", "percentage": 100 }
+    ],
+    "softSkills": [
+      { "skill": "Mentorship", "percentage": 88 },
+      { "skill": "Collaboration", "percentage": 99 },
+      { "skill": "Empathy", "percentage": 82 }
+    ],
+    "icon": "https://i.imgur.com/wKk6wJq.png"
+  }
+]
